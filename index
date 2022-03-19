@@ -5,8 +5,10 @@
 
 <button>click</button>
 
+<script>
 <?php
   echo 'hi';
 ?>
+</script>
 </body>
 <html>
